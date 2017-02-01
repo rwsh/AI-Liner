@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 13 16:37:51 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 class TPerceptron:

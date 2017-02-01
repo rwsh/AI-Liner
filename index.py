@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 13 11:42:11 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 import TPerceptron
